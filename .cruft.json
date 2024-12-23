@@ -1,0 +1,26 @@
+{
+  "template": "https://github.com/audreyfeldroy/cookiecutter-pypackage",
+  "commit": "301eceaee466f6031b93c917cd03d6b3aced3440",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Noopura Hasa Krishna",
+      "email": "noopurahasa@gmail.com",
+      "github_username": "noopurahasa",
+      "project_name": "engine_simulator",
+      "project_slug": "engine_simulator",
+      "project_short_description": ".",
+      "pypi_username": "noopurahasa",
+      "version": "0.1.0",
+      "use_pytest": "y",
+      "use_pypi_deployment_with_travis": "y",
+      "add_pyup_badge": "y",
+      "command_line_interface": "No command-line interface",
+      "create_author_file": "y",
+      "open_source_license": "MIT license",
+      "__gh_slug": "noopurahasa/engine_simulator",
+      "_template": "https://github.com/audreyfeldroy/cookiecutter-pypackage"
+    }
+  },
+  "directory": null
+}
